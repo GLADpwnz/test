@@ -1,4 +1,4 @@
-var DubtrackAPI = require('./dubtrackapi');
+var DubtrackAPI = require('dubtrackapi');
 
 // For the cookie route, just set creds to the cookie value
 var creds = '...'; // Put the value of the connect.sid cookie here
